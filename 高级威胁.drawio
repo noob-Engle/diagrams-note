@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T12:17:51.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.1" etag="c4DK62mSeLhy4gS7AXko" type="github"><diagram id="LwgvGrflx6afzoeVzQyT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-17T12:41:50.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="uSsPk0EcI0O4YaqnFxps" version="20.0.1" type="github">
+  <diagram id="LwgvGrflx6afzoeVzQyT" name="第 1 页">
+    <mxGraphModel dx="1422" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-14" value="适当的战术、技术和程序" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-15" value="网络抗御能力" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-18" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="QbbwtuLPcJ2RAxt8Skcp-16" target="QbbwtuLPcJ2RAxt8Skcp-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-20" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="QbbwtuLPcJ2RAxt8Skcp-16" target="QbbwtuLPcJ2RAxt8Skcp-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-16" value="为什么学习高级威胁狩猎？" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-17" value="如果你不了解你的敌人，我们怎么能保证组织安全？&lt;br&gt;我们如果学习到一些apt组织战术会为我们检测和缓解APT级别的攻击做好充足的准备" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="50" y="290" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-23" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="QbbwtuLPcJ2RAxt8Skcp-19" target="QbbwtuLPcJ2RAxt8Skcp-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-19" value="可为APT？" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="414" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-25" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="QbbwtuLPcJ2RAxt8Skcp-22" target="QbbwtuLPcJ2RAxt8Skcp-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-22" value="这是一个有组织的团体，其中一些是基于民族国家和非名族国家的对抗者&lt;br&gt;归根到底他们是逍遥法外的精锐互联网部队，并且他们都是很老练的参与者&lt;br&gt;他们都会有特定的动机和目标，会不择手段的来实现目的" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="414" y="280" width="306" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-24" value="&lt;br&gt;他们日常是需要大量资金来开展活动&lt;br&gt;资金来源：通常的话是国家赞助，但是里面也有犯罪组织的，例如：黑产" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="414" y="440" width="306" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

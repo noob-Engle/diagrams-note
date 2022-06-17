@@ -1,79 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T08:16:34.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="zn5szvgGTwFfVjR_bYO8" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T08:21:43.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="cpte1Sy4sJliCp8-X5my" version="20.0.1" type="github">
   <diagram id="7wjRY0mUIh7yZ_6xgGdR" name="第 1 页">
-    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AufETnQMN61xt0MOZM1X-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AufETnQMN61xt0MOZM1X-1" target="AufETnQMN61xt0MOZM1X-2">
+        <mxCell id="AufETnQMN61xt0MOZM1X-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1" source="AufETnQMN61xt0MOZM1X-1" target="AufETnQMN61xt0MOZM1X-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-1" value="Intranet Attack：kali" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="AufETnQMN61xt0MOZM1X-1" value="Intranet Attack：kali" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="112" y="80.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AufETnQMN61xt0MOZM1X-2" target="AufETnQMN61xt0MOZM1X-9">
+        <mxCell id="AufETnQMN61xt0MOZM1X-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1" source="AufETnQMN61xt0MOZM1X-2" target="AufETnQMN61xt0MOZM1X-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-2" value="responder -I eth0 -w -F" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="AufETnQMN61xt0MOZM1X-2" value="responder -I eth0 -w -F" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="192" y="220" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconnice-vector-icon/31/Vector-icons_77-128.png" vertex="1" parent="1">
+        <mxCell id="AufETnQMN61xt0MOZM1X-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#F4F1DE;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconnice-vector-icon/31/Vector-icons_77-128.png;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="272" y="230" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-6" value="可以在/usr/share/responder/log&lt;br&gt;查看结果&lt;br&gt;然后我们可以把log文件夹中的txt合并为一个txt&lt;br&gt;cat *.txt &amp;gt; hash.txt" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AufETnQMN61xt0MOZM1X-6" value="可以在/usr/share/responder/log&lt;br&gt;查看结果&lt;br&gt;然后我们可以把log文件夹中的txt合并为一个txt&lt;br&gt;cat *.txt &amp;gt; hash.txt" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="42" y="210" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AufETnQMN61xt0MOZM1X-9" target="AufETnQMN61xt0MOZM1X-14">
+        <mxCell id="AufETnQMN61xt0MOZM1X-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1" source="AufETnQMN61xt0MOZM1X-9" target="AufETnQMN61xt0MOZM1X-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-9" value="&lt;span style=&quot;&quot;&gt;hachcat -m 5600 hash.txt&amp;nbsp; password.txt --force&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AufETnQMN61xt0MOZM1X-9" value="&lt;span style=&quot;&quot;&gt;hachcat -m 5600 hash.txt&amp;nbsp; password.txt --force&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="172" y="390" width="368" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/thin-line-icons-for-seo-and-development-1/64/SEO_key-128.png" vertex="1" parent="1">
+        <mxCell id="AufETnQMN61xt0MOZM1X-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#F4F1DE;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/thin-line-icons-for-seo-and-development-1/64/SEO_key-128.png;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="112" y="390" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="AufETnQMN61xt0MOZM1X-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#F2CC8F;shape=mxgraph.azure.computer;pointerEvents=1;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="50" y="90.5" width="62" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AufETnQMN61xt0MOZM1X-14" target="AufETnQMN61xt0MOZM1X-17">
+        <mxCell id="AufETnQMN61xt0MOZM1X-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1" source="AufETnQMN61xt0MOZM1X-14" target="AufETnQMN61xt0MOZM1X-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-14" value="bloodhound-python -c All -d 域名 -u 用户名 -p 密码 -ns ip端口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AufETnQMN61xt0MOZM1X-14" value="bloodhound-python -c All -d 域名 -u 用户名 -p 密码 -ns ip端口" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="183" y="540" width="346" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-python-128.png" vertex="1" parent="1">
+        <mxCell id="AufETnQMN61xt0MOZM1X-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#F4F1DE;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-python-128.png;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="133" y="560" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AufETnQMN61xt0MOZM1X-17" target="AufETnQMN61xt0MOZM1X-19">
+        <mxCell id="AufETnQMN61xt0MOZM1X-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1" source="AufETnQMN61xt0MOZM1X-17" target="AufETnQMN61xt0MOZM1X-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-17" value="Tips：如果需要使用proxychains，需要加&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJjb2RlLWxpbmUlMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMmFsbCUyMC0tZG5zJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyZGY0YTFkMTA1NDRiNGE2MjgyNDFiNmQ2ZTlhMjllMmIlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJmZDdhOTllMDU1OGY0NmE0YWYyODk2NzE4OGUwYmQwOCUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmZjYTZkNmVmZmJkNzRlZjk4MThmOWU5ZDY5NGRlNTE1JTIyJTdE&quot;&gt;--dns-tcp参数&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AufETnQMN61xt0MOZM1X-17" value="Tips：如果需要使用proxychains，需要加&lt;span style=&quot;&quot; data-slate-fragment=&quot;JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJjb2RlLWxpbmUlMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMmFsbCUyMC0tZG5zJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyZGY0YTFkMTA1NDRiNGE2MjgyNDFiNmQ2ZTlhMjllMmIlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJmZDdhOTllMDU1OGY0NmE0YWYyODk2NzE4OGUwYmQwOCUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmZjYTZkNmVmZmJkNzRlZjk4MThmOWU5ZDY5NGRlNTE1JTIyJTdE&quot;&gt;--dns-tcp参数&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="183" y="590" width="346" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AufETnQMN61xt0MOZM1X-19" target="AufETnQMN61xt0MOZM1X-21">
+        <mxCell id="AufETnQMN61xt0MOZM1X-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1" source="AufETnQMN61xt0MOZM1X-19" target="AufETnQMN61xt0MOZM1X-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-19" value="crackmapexec smb --gen-relay-list targets.txt 目标c段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AufETnQMN61xt0MOZM1X-19" value="crackmapexec smb --gen-relay-list targets.txt 目标c段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="204" y="715" width="304" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AufETnQMN61xt0MOZM1X-21" target="AufETnQMN61xt0MOZM1X-26">
+        <mxCell id="AufETnQMN61xt0MOZM1X-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1" source="AufETnQMN61xt0MOZM1X-21" target="AufETnQMN61xt0MOZM1X-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-21" value="不需要smb签名进行枚举&lt;br&gt;场景：如果signing为flase，那么我们就可以使用ntlm中继" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AufETnQMN61xt0MOZM1X-21" value="不需要smb签名进行枚举&lt;br&gt;场景：如果signing为flase，那么我们就可以使用ntlm中继" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="166" y="770" width="380" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/lynx/16x16/places/gnome-mime-x-directory-smb-share.png" vertex="1" parent="1">
+        <mxCell id="AufETnQMN61xt0MOZM1X-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#F4F1DE;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/lynx/16x16/places/gnome-mime-x-directory-smb-share.png;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="400" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconnice-vector-icon/31/Vector-icons_77-128.png" vertex="1" parent="1">
+        <mxCell id="AufETnQMN61xt0MOZM1X-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#F4F1DE;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconnice-vector-icon/31/Vector-icons_77-128.png;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="508" y="712.5" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AufETnQMN61xt0MOZM1X-26" target="AufETnQMN61xt0MOZM1X-28">
+        <mxCell id="AufETnQMN61xt0MOZM1X-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1" source="AufETnQMN61xt0MOZM1X-26" target="AufETnQMN61xt0MOZM1X-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-26" value="场景：我们如果进行ntlm中继对方也有杀软，那么我们可以使用csahrp反弹shell去bypass AV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AufETnQMN61xt0MOZM1X-26" value="场景：我们如果进行ntlm中继对方也有杀软，那么我们可以使用csahrp反弹shell去bypass AV" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="254" y="880" width="204" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AufETnQMN61xt0MOZM1X-28" value="pypykatz lsa dump&amp;nbsp; 主机名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AufETnQMN61xt0MOZM1X-28" value="pypykatz lsa dump&amp;nbsp; 主机名" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="264" y="1005" width="184" height="45" as="geometry" />
         </mxCell>
       </root>

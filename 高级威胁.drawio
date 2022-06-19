@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T12:41:50.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="uSsPk0EcI0O4YaqnFxps" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T08:56:29.985Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="llvyqqfISeT-Y2vpcLFL" version="20.0.1" type="github">
   <diagram id="LwgvGrflx6afzoeVzQyT" name="第 1 页">
-    <mxGraphModel dx="1422" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,8 +34,35 @@
         <mxCell id="QbbwtuLPcJ2RAxt8Skcp-22" value="这是一个有组织的团体，其中一些是基于民族国家和非名族国家的对抗者&lt;br&gt;归根到底他们是逍遥法外的精锐互联网部队，并且他们都是很老练的参与者&lt;br&gt;他们都会有特定的动机和目标，会不择手段的来实现目的" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="414" y="280" width="306" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-27" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="QbbwtuLPcJ2RAxt8Skcp-24" target="QbbwtuLPcJ2RAxt8Skcp-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-30" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="QbbwtuLPcJ2RAxt8Skcp-24" target="QbbwtuLPcJ2RAxt8Skcp-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QbbwtuLPcJ2RAxt8Skcp-24" value="&lt;br&gt;他们日常是需要大量资金来开展活动&lt;br&gt;资金来源：通常的话是国家赞助，但是里面也有犯罪组织的，例如：黑产" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="414" y="440" width="306" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-33" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="QbbwtuLPcJ2RAxt8Skcp-26" target="QbbwtuLPcJ2RAxt8Skcp-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-26" value="APT会注意隐蔽性：会使用复杂和创新的开发能力去躲避edr狩猎，以免给发现" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="341" y="560" width="193" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-28" value="并且拥有足够的耐心和利用资源来突破大多数防御" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="614" y="560" width="193" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-32" value="尽管给发现了，他们也只是暂时丢失他们现有的能力，但是他们会不断的换思路换工具来尝试" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="341" y="650" width="193" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-36" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="QbbwtuLPcJ2RAxt8Skcp-34" target="QbbwtuLPcJ2RAxt8Skcp-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-34" value="数据分析" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QbbwtuLPcJ2RAxt8Skcp-35" value="目前有超过10亿的恶意软件程序存在：来源于病毒查杀单位" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
